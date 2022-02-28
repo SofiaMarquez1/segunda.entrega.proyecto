@@ -1,0 +1,28 @@
+
+.header{
+    background: radial-gradient( circle, #bedfd0 200px, #00afd1) ;
+}
+
+.img{
+    height: 200px;
+}
+
+.foto{
+    background-color: #a5e2ba;
+}
+
+.nav1{
+    background-color: #002559;
+}
+.footer{
+    color: white;
+}
+.imgh{
+    height: 300px;
+}
+.comienzo{
+    background-color:#a5e2ba ;
+}
+.video{
+    margin-bottom: 70px;
+}
